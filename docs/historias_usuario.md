@@ -10,7 +10,13 @@
 - O sistema deve permitir adicionar receitas e despesas com data, valor, categoria e descrição opcional.
 - O saldo atual deve ser atualizado em tempo real após cada lançamento.
 - O sistema deve alertar quando a despesa registrada provocar saldo negativo no mês.
-
+- 
+I – Independente Pode ser implementada sem depender de outras funcionalidades complexas
+N – Negociável	Campos e regras podem ser ajustados conforme necessidades do usuário
+V – Valiosa	Permite controle financeiro claro e prevenção de gastos excessivos
+E – Estimável	Escopo bem definido para estimativa de desenvolvimento
+S – Pequena	Funcionalidade focada apenas em registros e saldo mensal
+T – Testável	Possui critérios claros que permitem testes funcionais
 ---
 
 ## HU02 – Acompanhamento de Benefícios Sociais
