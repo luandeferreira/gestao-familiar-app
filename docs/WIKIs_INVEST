@@ -1,0 +1,7 @@
+HU01 – Controle de Receitas e Despesas Mensais
+I – Independente Pode ser implementada sem depender de outras funcionalidades complexas
+N – Negociável Campos e regras podem ser ajustados conforme necessidades do usuário
+V – Valiosa	Permite controle financeiro claro e prevenção de gastos excessivos
+E – Estimável Escopo bem definido para estimativa de desenvolvimento
+S – Pequena	Funcionalidade focada apenas em registros e saldo mensal
+T – Testável Possui critérios claros que permitem testes funcionais
